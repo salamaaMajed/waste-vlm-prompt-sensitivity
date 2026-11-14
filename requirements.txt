@@ -1,0 +1,3 @@
+# Install PyTorch suitable for your CUDA/CPU environment first if needed.
+-e .
+pytest>=7,<10

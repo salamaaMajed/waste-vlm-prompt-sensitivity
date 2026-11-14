@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "waste-language-vision-reproduction"
+version = "1.2.1"
+description = "Prompt sensitivity and total-label-budget experiments for waste classification"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+  "numpy>=1.24,<3", "pandas>=2.0,<3", "scipy>=1.10,<2",
+  "scikit-learn>=1.3,<2", "pillow>=10,<12", "matplotlib>=3.7,<4",
+  "torch>=2.2,<3", "transformers>=4.44,<5", "open_clip_torch>=2.24,<4",
+  "timm>=0.9", "ftfy>=6.1"
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7,<10"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

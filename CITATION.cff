@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: Please cite the accompanying manuscript when using this software or evidence.
+title: Prompt Sensitivity and Label Budgets in Vision-Language Models for Waste Classification
+type: software
+version: 1.2.1
+authors:
+- given-names: Salama
+  family-names: Alsenaidi
+  affiliation: Computer Information Science, Higher Colleges of Technology, Abu Dhabi,
+    United Arab Emirates
+- given-names: Wadhha
+  family-names: Alsulaimani
+  affiliation: Computer Information Science, Higher Colleges of Technology, Abu Dhabi,
+    United Arab Emirates
+- given-names: Shamsa
+  family-names: Howaireb
+  affiliation: Computer Information Science, Higher Colleges of Technology, Abu Dhabi,
+    United Arab Emirates
+- given-names: Mahra
+  family-names: Al Qubaisi
+  affiliation: Computer Information Science, Higher Colleges of Technology, Abu Dhabi,
+    United Arab Emirates
+- given-names: Mariam
+  family-names: Alkatheeri
+  affiliation: Computer Information Science, Higher Colleges of Technology, Abu Dhabi,
+    United Arab Emirates
+- given-names: Abdelrhman
+  family-names: Gaber
+  affiliation: Computer Information Science, Higher Colleges of Technology, Abu Dhabi,
+    United Arab Emirates
+- given-names: Youssef
+  family-names: Ibrahim
+  affiliation: Computer Information Science, Higher Colleges of Technology, Abu Dhabi,
+    United Arab Emirates
+  email: yibrahim@hct.ac.ae
+license: MIT
